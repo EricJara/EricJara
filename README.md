@@ -35,16 +35,7 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 
 ### Skills
 
-<img src="./assets/tech/azure.png"/>
-<img src="./assets/tech/cloud.png"/>
-<img src="./assets/tech/docker.png"/>
-<img src="./assets/tech/kubernetes.png"/>
-<img src="./assets/tech/terraform.png"/>
-<img src="./assets/tech/bash.png"/>
-<img src="./assets/tech/Sql_server.png"/>
-<img src="./assets/tech/python.png"/>
-<img src="./assets/tech/Power-bi.png"/>
-<img src="./assets/tech/php.png"/>
+<img src="./assets/tech/azure.png"/><img src="./assets/tech/cloud.png"/><img src="./assets/tech/docker.png"/><img src="./assets/tech/kubernetes.png"/><img src="./assets/tech/terraform.png"/><img src="./assets/tech/bash.png"/><img src="./assets/tech/Sql_server.png"/><img src="./assets/tech/python.png"/><img src="./assets/tech/Power-bi.png"/><img src="./assets/tech/php.png"/>
 
 ### Contact Me
 
