@@ -52,3 +52,8 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 <a href="https://github.com/EricJara">
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJara&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
 </a>
+
+### :zap: Actividad Reciente
+<!--INICIO-SECCION-ACTIVIDAD-->
+
+<!--FINAL-SECCION-ACTIVIDAD-->
