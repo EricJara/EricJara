@@ -1,17 +1,14 @@
-name: Update Readme
+name: Update README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Cada 12 horas
-  workflow_dispatch:        # Permite ejecución manual
+    - cron: '0 */12 * * *' # Cada 12 horas
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
-    name: Update Profile README
     steps:
-      - uses: actions/checkout@v4
-      - name: Update recent activity in README
-        uses: Readme-Workflows/recent-activity@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v3
+      - name: Update README with recent activity
+        uses: EricJara/github-activity-readme@main # Reemplaza con tu información
