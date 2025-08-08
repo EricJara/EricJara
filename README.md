@@ -54,6 +54,6 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 </a>
 
 ### :zap: Actividad Reciente
-<!--INICIO-SECCION-ACTIVIDAD-->
+<!--START_SECTION:activity-->
 
-<!--FINAL-SECCION-ACTIVIDAD-->
+<!--END_SECTION:activity-->
