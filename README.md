@@ -43,7 +43,7 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 - 💼 [LinkedIn](http://www.linkedin.com/in/eric-josé-jara-palacios-40b005b3)
 - 📱 [WhatsApp](https://wa.me/51910600043)
 
-### Recent Activity
+### Recent used lenguages
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EricJara&hide_border=true&layout=compact)
 
@@ -53,7 +53,8 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricJara&theme=dark&hide_border=true&bg_color=0D1117&title_color=9966ff&size_weight=0&count_weight=1&card_width=400&hide_title=true" />
 </a>
 
-### :zap: Actividad Reciente
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 
 <!--END_SECTION:activity-->
