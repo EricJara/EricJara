@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 
 [linkedin]: http://www.linkedin.com/in/eric-josé-jara-palacios-40b005b3
 [GitHub]: https://github.com/EricJara
-[website]: https://softsistema.com/ericjarap/portafolio/
+[website]: https://softsistema.com/
 [twitter]: https://x.com/EricJosJaraPal1
 [instagram]: https://www.instagram.com/eric.jara_96/
 [whatsapp]: https://wa.me/51910600043
