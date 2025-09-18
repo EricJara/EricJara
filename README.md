@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a technology professional with experience desi
 
 ### My Projects
 
-[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsoftsistema.com%2Fericjarap%2Fportafolio%2F&style=for-the-badge&label=softsistemas.com)][website]
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fsoftsistema.com%2F&style=for-the-badge&label=softsistemas.com)][website]
 
 ### Social Media
 
